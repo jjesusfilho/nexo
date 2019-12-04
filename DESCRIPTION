@@ -13,10 +13,16 @@ Encoding: UTF-8
 Language: pt_BR
 LazyData: true
 Imports: 
-    purrr,
-    xml2,
-    httr,
-    dplyr,
-    stringr,
-    tidyr,
-    lubridate
+    purrr (>= 0.3.3),
+    xml2 (>= 1.2.2),
+    httr (>= 1.4.1),
+    dplyr (>= 0.8.3),
+    stringr (>= 1.4.0),
+    tidyr (>= 1.0.0),
+    lubridate (>= 1.7.4),
+    rlang (>= 0.1.2),
+    magrittr (>= 1.5),
+    janitor
+Suggests: 
+    roxygen2 (>= 7.0.1)
+RoxygenNote: 7.0.1
