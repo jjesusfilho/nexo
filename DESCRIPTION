@@ -12,3 +12,11 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Language: pt_BR
 LazyData: true
+Imports: 
+    purrr,
+    xml2,
+    httr,
+    dplyr,
+    stringr,
+    tidyr,
+    lubridate
