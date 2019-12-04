@@ -26,3 +26,5 @@ Imports:
 Suggests: 
     roxygen2 (>= 7.0.1)
 RoxygenNote: 7.0.1
+URL: https://github.com/jjesusfilho/nexo
+BugReports: https://github.com/jjesusfilho/nexo/issues
